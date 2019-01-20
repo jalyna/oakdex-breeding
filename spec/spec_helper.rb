@@ -1,7 +1,7 @@
 require 'simplecov'
 SimpleCov.start
 
-require 'oakdex/pokemon'
+require 'oakdex/breeding'
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|

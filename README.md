@@ -6,7 +6,18 @@ Based on [oakdex-pokemon](https://github.com/jalyna/oakdex-pokemon).
 
 ## Getting Started
 
-TBD
+
+```ruby
+require 'oakdex/breeding'
+
+pok1 = Oakdex::Pokemon.create('Ditto', level: 20)
+pok2 = Oakdex::Pokemon.create('Pikachu', level: 20, gender: 'female')
+
+Oakdex::Breeding.compatible?(pok1, pok2) # => true
+Oakdex::Breeding.chance_in_percentage(pok1, pok2) # => 20
+Oakdex::Breeding.breed(pok1, pok2) #=> Oakdex::Pokemon Pichu
+```
+
 
 ## Contributing
 
