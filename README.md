@@ -1,6 +1,6 @@
 # <img src="https://v20.imgup.net/oakdex_logfbad.png" alt="fixer" width=282>
 
-[![Gem Version](https://badge.fury.io/rb/oakdex-breeding.svg)](https://badge.fury.io/rb/oakdex-breeding) [![Build Status](https://travis-ci.org/jalyna/oakdex-breeding.svg?branch=master)](https://travis-ci.org/jalyna/oakdex-breeding)
+[![Gem Version](https://badge.fury.io/rb/oakdex-breeding.svg)](https://badge.fury.io/rb/oakdex-breeding) [![Build Status](https://travis-ci.org/jalyna/oakdex-breeding.svg?branch=master)](https://travis-ci.org/jalyna/oakdex-breeding) [![Maintainability](https://api.codeclimate.com/v1/badges/c3b27152c3b239b50c08/maintainability)](https://codeclimate.com/github/jalyna/oakdex-breeding/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/c3b27152c3b239b50c08/test_coverage)](https://codeclimate.com/github/jalyna/oakdex-breeding/test_coverage)
 
 Based on [oakdex-pokemon](https://github.com/jalyna/oakdex-pokemon).
 
